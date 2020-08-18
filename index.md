@@ -7,7 +7,7 @@ You can find our working paper [here](https://arxiv.org/pdf/2004.07740.pdf).
 
 # Assessing the Utility of Synthetic Data
 
-This is work in progress and we will include this on this page as soon as possible.
+The code for the utility suite is work in progress and we will include this on this page as soon as possible.
 
 # About Us
 
