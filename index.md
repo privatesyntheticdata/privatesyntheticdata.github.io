@@ -13,3 +13,5 @@ The code for the utility suite is work in progress and we will include this on t
 
 # About Us
 
+*   [Christian Arnold](http://christianarnold.org)
+*   [Marcel Neunhoeffer](http://marcel-neunhoeffer.com)
